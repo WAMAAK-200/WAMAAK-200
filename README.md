@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Warith:
-Computer Science Student at the University of Nottingham<br><br>I mainly program in Python but I have experience in various other languages.<br>
+Computer Science Student at the University of Nottingham<br><br>I mainly program in Python but I have experience in various other languages.<br> <br> I'm currently working on an API in Go.
 
 
 ## 🌐 Where to reach me:
